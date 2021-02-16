@@ -1,0 +1,22 @@
+h1{
+  color: #845ec2;
+  font-family: 'Bebas Neue', cursive;
+}
+
+li{
+  font-family: 'El Messiri', sans-serif;
+}
+
+.header{
+  background-color: #393e46;
+  padding: 20px 15px 30px;
+}
+
+.banner{
+  text-align: center;
+padding: 50px 200px 150px;
+}
+
+.products{
+  padding-bottom: 100px;
+}
