@@ -7,16 +7,75 @@ li{
   font-family: 'El Messiri', sans-serif;
 }
 
+#link{
+  color: red;
+  font-family: 'Playfair Display', serif;
+}
+
+.row a{
+  color: red;
+}
+
 .header{
-  background-color: #393e46;
-  padding: 20px 15px 30px;
+  background-color: #dddddd;
+  padding: 20px 15px 5px;
+}
+
+.navbar{
+  background-color:  #dddddd;
+}
+
+.footer{
+  background-color: #dddddd;
 }
 
 .banner{
-  text-align: center;
-padding: 50px 200px 150px;
+  background-color: white;
+  position: absolute;
+  width: 100%;
 }
 
 .products{
-  padding-bottom: 100px;
+  padding-top: 600px;
+  padding-bottom: 30px;
+  background-color: #dddddd;
+}
+
+.container {
+  text-align: center;
+}
+
+.start{
+  position: relative;
+  padding-top: 100px;
+  padding-bottom: 50px;
+}
+
+.txt {
+  position: absolute;
+  transform: translate(-40%, -80%);
+  font-family: 'Fredoka One', cursive;
+  font-size: 2.5rem;
+  color: #ec4646;
+  float: left;
+  margin: 150px auto 100px auto;
+}
+
+.txt-p{
+  position: absolute;
+  transform: translate(-40%, 100%);
+  font-family: 'Fredoka One', cursive;
+  font-size: 1.5rem;
+  color: #ec4646;
+  float: left;
+  margin: 150px auto 100px auto;
+}
+
+.container img{
+  margin-top: 50px;
+  border-radius: 5%;
+  width: 50%;
+  float: right;
+  margin-right: 30px;
+  margin-bottom: 50px;
 }
